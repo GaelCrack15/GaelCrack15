@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Hello! I'm Gael Flores, a Software Engineering student from Mexico.<br><br>- 🔭 I'm not doing anything<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about languages.<br><br>- ⚡ When I'm not immersed in lines of code, I spend my time playing videogames and reading comics.</p>
+<p align="left">Hello! I'm Gael Flores, a Software Engineering student from Mexico.<br><br>- 🔭 I'm not doing anything<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about languages.<br><br>- ⚡ When I'm not coding, I spend my time playing videogames and reading comics.</p>
 
 ###
 
