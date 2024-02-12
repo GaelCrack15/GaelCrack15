@@ -10,11 +10,8 @@
   <a href="https://www.linkedin.com/in/gael-flores-0377112b4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="ga.florez05@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/gaelcrack15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -27,7 +24,7 @@
 
 ###
 
-<p align="left">Hello! I'm Gael Flores, a Software Engineering student from Mexico.<br><br>- 🔭 I'm working in personal projects, however, I'm always open to new ideas.<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about different programming languages.<br><br>- ⚡ When I'm not coding, I spend my time playing videogames and reading comics.<br><br>- 🪐 Spanish is my native language, and I am certified in both English and French.</p>
+<p align="left">Hello! I'm Gael Flores a Software Engineering student from Mexico.<br><br>- 🔭 I'm working in personal projects, however, I'm always open to new ideas.<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about different programming languages.<br><br>- ⚡ When I'm not coding, I spend my time playing videogames and reading comics.<br><br>- 🪐 Spanish is my native language, and I am certified in both English and French.</p>
 
 ###
 
