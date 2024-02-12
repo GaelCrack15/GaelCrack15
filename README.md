@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Hello! I'm Gael Flores a Software Engineering student from Mexico.<br><br>- 🔭 I'm working in personal projects, however, I'm always open to new ideas.<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about different programming languages.<br><br>- ⚡ When I'm not coding, I spend my time playing videogames and reading comics.<br><br>- 🪐 Spanish is my native language, but I am also certified in both English and French.</p>
+<p align="left">Hello! I'm Gael Flores a Software Engineering student from Mexico.<br><br>- 🔭 I'm working in personal projects, however, I'm always open to new ideas.<br><br>- 📚 I never stop learning. Currently, I'm dedicating time to learn about different programming languages.<br><br>- ⚡ When I'm not coding, I spend my time playing videogames and reading comics.<br><br>- 🪐 Spanish is my native language, but I'm also certified in both English and French.</p>
 
 ###
 
