@@ -1,4 +1,4 @@
-<img align="right" height="600" src="https://i.gifer.com/40Jx.gif"  />
+<img align="right" height="600" src="https://i.gifer.com/40Jx.gif"/>
 
 ###
 
