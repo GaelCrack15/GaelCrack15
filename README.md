@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <a href="#" target="_blank">
+  <a href="https://github.com/GaelCrack15/gamevault" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gamevault&label=&color=b60fb6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gamevault logo"  />
   </a>
   <a href="https://p-library.vercel.app/" target="_blank">
