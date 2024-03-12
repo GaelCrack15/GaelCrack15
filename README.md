@@ -62,7 +62,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gamevault&label=&color=b60fb6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gamevault logo"  />
   </a>
